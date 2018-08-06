@@ -75,7 +75,7 @@ img{
     margin:30px 100px 30px;
    
 }
-h2 {
+h1 {
     border-bottom: 2px solid gray;
     color:#47a5b3;
 }
@@ -85,6 +85,10 @@ h2 {
     display:block;
     float: left;
     overflow: auto;
+}
+p{
+    font-family: 'Spectral', serif;
+
 }
 
 #copyright{
