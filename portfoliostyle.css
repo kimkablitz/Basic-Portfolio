@@ -61,7 +61,7 @@
      display:block;
      padding: 20px 70px 20px 40px;
      margin-bottom: 20px;
-     background: #ccc;
+     background: white;
      border-color: #dddddd;
      color: #777777;
      float: right;
@@ -70,7 +70,7 @@
  }
  .About{
      
-     padding-bottom: 40px;
+     padding: 20px;
      font-size:40px;
      background-color: gainsboro;
      margin:30px 100px 30px;

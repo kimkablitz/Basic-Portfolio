@@ -48,10 +48,13 @@ body{
 
 }
 img{
-    width:300px;
-    height:300px;
+    width:200px;
+    height:200px;
     float:left;
     margin:20px;
+}
+a: link {
+    color: black;
 }
 .main {
     width:960px;
@@ -60,7 +63,7 @@ img{
     display:block;
     padding: 20px 70px 20px 40px;
     margin-bottom: 20px;
-    background: #ccc;
+    background: white;
     border-color: #dddddd;
     color: #777777;
     float: right;
@@ -93,4 +96,13 @@ p{
 
 #copyright{
     text-align: center;
+}
+footer{
+    text-align:center;
+    color:rgb(21, 64, 121);
+    display:block;
+    margin-bottom: 60px;
+    background-color:darkgray;
+    padding: 20px;
+    border-bottom: 3px solid gray;
 }
