@@ -68,6 +68,10 @@
      border-bottom: 5px solid #47a5b3;
      font-size: 20px;
  }
+ a {
+    text-decoration: none;
+
+}
  .About{
      
      padding: 20px;

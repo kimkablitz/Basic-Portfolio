@@ -1,0 +1,134 @@
+.header {
+    display:block;
+    margin-bottom: 60px;
+    background-color: #dddddd;
+    padding: 20px;
+    border-bottom: 3px solid gray;
+   
+ }
+ #Name{
+     color:#495557 ;
+     background: #47a5b3;;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     padding: 23px;
+     font-size: 40px;
+     margin-left:180px;
+     display: inline;
+ 
+ }
+ .navi{
+     display: inline;
+     color:black;
+     font-size: 20px;
+     margin-right: 150px;
+     float: right;
+    
+ 
+ }
+ #Aboutlink{
+     float:left;
+     padding:20px;
+     border-right: 1px solid rgb(161, 157, 157);
+     height: 2px;
+ }
+ #Portfoliolink{
+     float: left;
+     padding:20px;
+     border-right: 1px solid rgb(161, 157, 157);
+     height: 2px;
+ }
+ #Contactlink{
+     float: right;
+     padding:20px;
+ }
+ body{
+     background-image: url("assets/images/concrete-texture/concrete-texture.png");
+ 
+ }
+ img{
+     width:200px;
+     height:200px;
+     float:left;
+     margin:20px;
+ }
+ a {
+     text-decoration: none;
+ 
+ }
+ .main {
+     display: flex;
+     border: solid rgb(228, 222, 222);
+     padding: 20px 70px 50px 40px;
+     margin-bottom: 20px;
+     background: white;
+     border-bottom: 5px solid #47a5b3;
+     font-size: 20px;
+     flex-direction: column;
+     margin: 50px 190px 300px;
+ }
+ a {
+    text-decoration: none;
+
+}
+
+ .message-container{
+     flex-grow: 2;
+ }
+ input[type=submit] {
+    border-radius: 10px;
+    border: 0;
+    width: 80px;
+    height:25px;
+    font-family: Tahoma;
+    background: #47a5b3;
+    margin-top:20px;
+    font-size: 18px;
+ }
+input[type=name] {
+    width: 700px;
+    height:30px;
+}
+input[type=email]{
+    width: 700px;
+    height:30px;
+}
+input[type=Message]{
+    width: 700px;
+    height:400px;
+}
+
+ 
+ .About{
+    padding-bottom: 40px;
+    font-size:40px;
+    flex-grow: 1;
+    
+ }
+ h1 {
+     border-bottom: 2px solid rgb(235, 230, 230);
+     color:#47a5b3;
+ }
+ 
+ 
+ p{
+     font-family: 'Spectral', serif;
+ 
+ }
+ 
+h4{
+    color: gray;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+ #copyright{
+     text-align: center;
+ }
+ footer{
+     text-align:center;
+     color:rgb(21, 64, 121);
+     display:block;
+     margin-bottom: 60px;
+     margin-top: 20px;
+     padding: 20px;
+     border-bottom: 3px solid gray;
+ }
