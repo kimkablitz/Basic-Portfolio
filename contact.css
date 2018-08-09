@@ -64,13 +64,14 @@
      border-bottom: 5px solid #47a5b3;
      font-size: 20px;
      flex-direction: column;
-     margin: 50px 190px 300px;
+     margin: 100px 190px 300px;
  }
- a {
-    text-decoration: none;
-
+.container{
+    margin-top: 30px;
 }
-
+.firsttwo{
+    flex-grow: 1;
+}
  .message-container{
      flex-grow: 2;
  }
@@ -96,22 +97,16 @@ input[type=Message]{
     width: 700px;
     height:400px;
 }
-
  
- .About{
-    padding-bottom: 40px;
-    font-size:40px;
-    flex-grow: 1;
-    
- }
- h1 {
-     border-bottom: 2px solid rgb(235, 230, 230);
-     color:#47a5b3;
- }
- 
- 
+h1 {
+    border-bottom: 2px solid rgb(235, 230, 230);
+    color:#47a5b3;
+    padding: 20px 20px 20px 20px;
+    margin-top: 20px;
+    font-size:40px;  
+}
  p{
-     font-family: 'Spectral', serif;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
  
  }
  

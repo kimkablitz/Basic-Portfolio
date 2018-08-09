@@ -68,27 +68,22 @@ a {
     border-bottom: 5px solid #47a5b3;
     font-size: 20px;
 }
-.About{
-    
-    padding-bottom: 40px;
-    font-size:40px;
-    margin:30px 150px 30px;
-   
-}
 h1 {
     border-bottom: 2px solid rgb(235, 230, 230);
     color:#47a5b3;
+    padding: 20px 20px 20px 20px;
+    margin-top: 20px;
+    font-size:40px;
+   
 }
 
-
-.picnwords {
-    display:block;
-    float: left;
-    overflow: auto;
+.container{
+    margin-top: 40px;
 }
 p{
-    font-family: 'Spectral', serif;
-
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    text-indent: 50px;
 }
 
 #copyright{
