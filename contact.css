@@ -10,7 +10,7 @@
      color:#495557 ;
      background: #47a5b3;;
      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-     padding: 23px;
+     padding: 20px;
      font-size: 40px;
      margin-left:180px;
      display: inline;
@@ -20,8 +20,9 @@
      display: inline;
      color:black;
      font-size: 20px;
-     margin-right: 150px;
+     margin-right: 130px;
      float: right;
+     margin-top:0px;
     
  
  }
@@ -86,15 +87,15 @@
     font-size: 18px;
  }
 input[type=name] {
-    width: 700px;
+    width: 940px;
     height:30px;
 }
 input[type=email]{
-    width: 700px;
+    width: 940px;
     height:30px;
 }
 input[type=Message]{
-    width: 700px;
+    width: 940px;
     height:400px;
 }
  
