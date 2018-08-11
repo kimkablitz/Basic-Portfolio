@@ -12,8 +12,8 @@
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     padding: 20px;
     font-size: 40px;
-    display:inline;
     margin-left:190px;
+    display:inline;
 
 }
 .navi{
@@ -29,14 +29,18 @@
 #Aboutlink{
     float:left;
     padding:20px;
-    border-right: 1px solid rgb(161, 157, 157);
     height: 2px;
+    border-right: 1px solid gray;
+    padding-right:15px;
+    height:3px;
+    word-spacing: 15px;
 }
 #Portfoliolink{
     float: left;
     padding:20px;
-    border-right: 1px solid rgb(161, 157, 157);
     height: 2px;
+    border-right: 1px solid gray;
+    padding-right:15px;
 }
 #Contactlink{
     float: right;
@@ -59,7 +63,7 @@ a {
 }
 .main {
     width:960px;
-    margin:40px 150px 100px 150px;
+    margin:30px 150px 100px 150px;
     border: solid rgb(228, 222, 222);
     display:block;
     padding: 20px 70px 50px 40px;
@@ -72,7 +76,7 @@ a {
 h1 {
     border-bottom: 2px solid rgb(235, 230, 230);
     color:#47a5b3;
-    padding: 20px 20px 20px 20px;
+    padding: 10px 20px 20px 20px;
     margin-top: 20px;
     font-size:40px;
    
@@ -80,11 +84,13 @@ h1 {
 
 .container{
     margin-top: 40px;
+    padding-bottom:20px;
 }
 p{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 20px;
     text-indent: 50px;
+    letter-spacing: 1px;
 }
 
 #copyright{
@@ -94,8 +100,7 @@ footer{
     text-align:center;
     color:rgb(21, 64, 121);
     display:block;
-    margin-bottom: 60px;
+    margin-bottom:0px;
     margin-top: 20px;
-    padding: 20px;
-    border-bottom: 3px solid gray;
+    padding-bottom:50px;
 }
